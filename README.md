@@ -1,2 +1,2 @@
-# Trojan-Horse-Simulation
-Trojan Horse Simulation : Offensive Techniques • Defensive Monitoring
+# Trojan Horse Simulation
+This repository contains simulated malware modules...
